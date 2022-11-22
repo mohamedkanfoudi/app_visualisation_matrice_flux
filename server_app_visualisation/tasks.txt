@@ -1,0 +1,5 @@
+- commencer par développer une page d'accueil qui contient quelques tableau de bords (Angular )
+- se connecter à DB (récupérer des données  numériques aléatoires et les visuailser avec les tableaux de bords )
+- syslog..
+
+A 26/11/2022
