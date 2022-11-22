@@ -1,5 +1,5 @@
 - conteunariser un serveur de base de données PostgreSQL
 - paramétrer le serveur
 - lier le serveur de BD avec le serveur d'application de visualisation 
-
+- ..
 A 26/11/2022
