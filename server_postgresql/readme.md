@@ -1,8 +1,11 @@
 créer la base de donné sur postgres (sans créer de tables)
+
 unzip postgresTest.rar et ouvrir le dossier
 
 python -m venv env
+
 pip install -r requirements.txt
+
 
 pour spécifier les paramètres du db:
 postgresTest\postgresTest\.env
